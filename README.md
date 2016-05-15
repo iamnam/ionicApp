@@ -68,7 +68,7 @@
 - Ionic
 - Angular.js : 모듈, 컨트롤러 생성, ng-click, ng-class, ng-model 사용
 - Ionic sidemenu 와꾸 맛보기
-- PullToRefresh 당겨서 새로고침 UI 구현
+- PullToRefresh 당겨서 새로고침 UI 구현 
 
 # 4주차
 - 개발 환경 세팅(2/2) Ant, Android SDK
