@@ -103,3 +103,4 @@
 - $ionicModal
 - $firebaseArray
 - firebase 데이터 동기화
+ 
